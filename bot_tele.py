@@ -9,7 +9,7 @@ import json
 BOT_TOKEN = os.getenv("BOT_TOKEN", "7874848041:AAF1HmDpNVGfJhQBetDW05c16SFqPAQJwLs")
 
 GOOGLE_SHEET_NAME = "Catatan Keuangan Bot"
-SERVICE_ACCOUNT_FILE = r'D:\BACK UP VIRA 05-05-2025\ONE DRIVE\DOKUMEN\VSCODE\bot telegram\telegram-bot-keuangan-ecdb509353f1.json'
+SERVICE_ACCOUNT_FILE = r'D:\BACK UP VIRA 05-05-2025\ONE DRIVE\DOKUMEN\VSCODE\bot telegram\telegram-bot-keuangan-7b58e1f0edb8.json'
 
 gc = None 
 USER_SHEET_MAPPING_FILE = 'user_sheets.json'
